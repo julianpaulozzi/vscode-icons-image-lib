@@ -8,7 +8,7 @@ See: [Custom icons support and offline icons support](https://github.com/roberto
 In order to set your icons.zip uri you must open Preferences > User Settings and set this:
 ```json
 {
-  "vsicons.icons": "https://github.com/julianpaulozzi/vscode-icons-image-lib/icons.zip"
+  "vsicons.icons": "https://github.com/julianpaulozzi/vscode-icons-image-lib/raw/master/icons.zip"
 }
 
 ```
